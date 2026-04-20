@@ -1,12 +1,12 @@
 [
   {
-    "path": "data/file1.img",
-    "size": 123456,
-    "md5": "5d41402abc4b2a76b9719d911017c592"
+    "path": "data/maps/map1.img",
+    "md5": "abc123",
+    "size": 123456
   },
   {
-    "path": "data/file2.dat",
-    "size": 888888,
-    "md5": "098f6bcd4621d373cade4e832627b4f6"
+    "path": "data/update1.zip",
+    "md5": "zzz999",
+    "type": "zip"
   }
 ]
